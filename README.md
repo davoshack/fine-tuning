@@ -1,2 +1,1 @@
-# fine-tuning
-Chapter XI: Fine-Tuning from Build LLMs for Production
+# Chapter XI: Fine-Tuning from Build LLMs for Production
