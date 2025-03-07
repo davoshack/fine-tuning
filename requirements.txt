@@ -1,4 +1,9 @@
 ipython==7.31.1
 python-dotenv==1.0.1
+transformers
+deeplake
+trl
+peft
+wandb
 
 layers/
