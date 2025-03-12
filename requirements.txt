@@ -6,5 +6,7 @@ trl
 peft
 wandb
 cohere
+bitsandbytes
+accelerate
 
 layers/
